@@ -1,4 +1,5 @@
-# Guessing Game # ## by Rohan Kulkarni  ##
+# Guessing Game # 
+## by Rohan Kulkarni  ##
 - *makefile.sh executed / README.md Made on:* 2020-06-05 14:05:38.442006700 +0530
 - *lines in guessinggame.sh* : **18 guessinggame.sh** 
 
