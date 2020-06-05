@@ -1,3 +1,7 @@
+function congrats
+{
+	printf "Congrats!!!"
+}
 echo "How many files are present in the current directory?"
 fileCount=$( ls | wc -l)
 echo $fileCount
@@ -15,4 +19,4 @@ do
 		let flag=$flag-1
 	fi
 done
-echo "Congrats!!"
+echo congrats
